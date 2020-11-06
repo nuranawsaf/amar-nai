@@ -18,3 +18,19 @@ h3{
     text-align: justify;
     float: left;
 }
+.special:hover{
+    color: indianred;
+    background-color: lawngreen;
+    font-size: 60px;
+}
+input:focus{
+    color: lawngreen;
+    font-weight: 700px;
+    font-size: 30px;
+}
+li:nth-child(2n){
+    background-color: indianred;
+}
+a:visited{
+    color: rgb(255, 6, 6);
+}
