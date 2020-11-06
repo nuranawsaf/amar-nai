@@ -1,0 +1,20 @@
+#birthday{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.friend{
+    background-color: red;
+}
+h3{
+    text-align: center;
+}
+.blog{
+    border: 5px solid red;
+    border-radius: 40px;
+    width: 20%;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    float: left;
+}
