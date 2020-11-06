@@ -8,16 +8,7 @@
 h3{
     text-align: center;
 }
-.blog{
-    border: 5px solid red;
-    border-radius: 40px;
-    width: 20%;
-    height: 200px;
-    margin: 20px;
-    padding: 20px;
-    text-align: justify;
-    float: left;
-}
+
 .special:hover{
     color: indianred;
     background-color: lawngreen;
@@ -33,4 +24,13 @@ li:nth-child(2n){
 }
 a:visited{
     color: rgb(255, 6, 6);
+}
+.blog{
+    border: 2px solid rebeccapurple;
+    border-radius: 20px;
+    margin: 40px;
+    width: 20%;
+    float: left;
+    padding: 10px;
+    text-align: justify;
 }
